@@ -27,7 +27,7 @@ The bot integrates with **The Movie Database (TMDb) API**, providing **real-time
    ```
 ⚠️ **Before running the bot, make sure to install the required libraries:**  
 
-    ```bash
+   
     pip install python-telegram-bot==13.15
     pip install urllib3==1.26.15
-    ```
+   
