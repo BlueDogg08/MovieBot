@@ -789,7 +789,10 @@ def upcoming_movies_search(update: Update, context: CallbackContext):
 
         delete_last_message(update, context)
 
-        url = f"https://api.themoviedb.org/3/movie/upcoming?language=it-IT&page=1&region=IT"
+        lang = get_user_language(update, context)
+        region = get_user_region(update, context)
+
+        url = f"https://api.themoviedb.org/3/movie/upcoming?language={lang}-{region}&page=1"
         headers = {
             "accept": "application/json",
             "Authorization": f"Bearer {TMDB_TOKEN}"
