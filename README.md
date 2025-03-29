@@ -2,6 +2,10 @@
 
 A **Telegram bot** that helps you **manage your movie lists** in a simple and efficient way.  
 
+
+https://github.com/user-attachments/assets/bda462fd-f26b-43c2-856d-95ce69d539a8
+
+
 ## Description 📃  
 
 MovieBot allows users to **add, view, and remove movies** from three customizable lists:  
