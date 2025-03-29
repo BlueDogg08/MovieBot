@@ -3,7 +3,9 @@
 A **Telegram bot** that helps you **manage your movie lists** in a simple and efficient way.  
 
 
-https://github.com/user-attachments/assets/bda462fd-f26b-43c2-856d-95ce69d539a8
+
+https://github.com/user-attachments/assets/0f7ba3e5-9a12-4a1b-9421-cf62083edda3
+
 
 
 ## Description 📃  
